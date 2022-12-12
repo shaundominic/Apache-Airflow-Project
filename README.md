@@ -5,7 +5,9 @@
   - Tweepy
   - Pandas
 - Airflow
+- AWS EC2 (Ubuntu Instance)
 - AWS S3
+
 
 
 # Info
