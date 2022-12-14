@@ -1,4 +1,5 @@
 # Airflow-Project
+Airflow deployed on EC2 instance fetches data using twitter api and uploads into AWS S3 bucket.
 
 # Requirements
 - Python
@@ -10,7 +11,4 @@
 
 
 
-# Info
-Fetches data using Twitter API
 
-EC2 instance with ubuntu to run airflow and upload to a S3 bucket
