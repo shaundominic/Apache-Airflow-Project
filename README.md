@@ -1,11 +1,11 @@
 # Airflow-Project
 
-# Stack Used
+# Requirements
 - Python
   - Tweepy
   - Pandas
 - Airflow
-- AWS EC2 (Ubuntu Instance)
+- AWS EC2
 - AWS S3
 
 
